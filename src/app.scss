@@ -1,0 +1,26 @@
+/* Write your global styles here, in SCSS syntax. Variables and mixins from the src/variables.scss file are available here without importing */
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Helvetica Condensed';
+	src: url('/assets/fonts/helvetica_condensed.woff2') format('woff2'),
+		url('/assets/fonts/helvetica_condensed.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Neue Helvetica Compressed';
+	src: url('/assets/fonts/neue_helvetica_59_compressed.woff2') format('woff2'),
+		url('/assets/fonts/neue_helvetica_59_compressed.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Neue Helvetica Compressed';
+	src: url('/assets/fonts/neue_helvetica_79_compressed_bold.woff2') format('woff2'),
+		url('/assets/fonts/neue_helvetica_79_compressed_bold.ttf') format('truetype');
+	font-weight: bold;
+}
