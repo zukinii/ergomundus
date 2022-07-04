@@ -6,30 +6,9 @@ const config = {
 	theme: {
 		extend: {
 			colors: {
-				primary: '#F5FC00'
-			},
-			fontFamily: {
-				copy: ['"Helvetica Condensed"', '"Helvetica Neue"', 'Helvetica', 'Arial', 'sans-serif'],
-				heading: [
-					'"Neue Helvetica Compressed"',
-					'"Helvetica Neue"',
-					'Helvetica',
-					'Arial',
-					'sans-serif'
-				]
-			},
-			animation: {
-				sparkle: 'sparkle 1s linear infinite',
-				rotate: 'rotate 2s linear infinite'
-			},
-			keyframes: {
-				sparkle: {
-					'0%, 100%': { transform: 'scale(0.1)', opacity: '0.1' },
-					'50%': { transform: 'scale(1)', opacity: '1' }
-				},
-				rotate: {
-					'0%': { transform: 'rotate(0deg)' },
-					'100%': { transform: 'rotate(360deg)' }
+				primary: '#5C87FF',
+				gray: {
+					bg: '#E2E2E2'
 				}
 			},
 			container: {
@@ -37,7 +16,9 @@ const config = {
 				padding: {
 					DEFAULT: '1rem',
 					sm: '2rem',
-					lg: '2.75rem'
+					lg: '4rem',
+					xl: '5rem',
+					'2xl': '6rem'
 				}
 			}
 		}

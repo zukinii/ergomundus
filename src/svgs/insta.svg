@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <g id="Insta" transform="translate(-3.759 -3.759)">
-    <path id="Pfad_8" data-name="Pfad 8" d="M0,0H40V40H0Z" transform="translate(3.759 3.759)" fill="none"/>
-    <path id="Pfad_9" data-name="Pfad 9" d="M8.167-.75H24.5a8.927,8.927,0,0,1,8.917,8.917V24.5A8.927,8.927,0,0,1,24.5,33.418H8.167A8.927,8.927,0,0,1-.75,24.5V8.167A8.927,8.927,0,0,1,8.167-.75ZM24.5,31.918A7.426,7.426,0,0,0,31.918,24.5V8.167A7.426,7.426,0,0,0,24.5.75H8.167A7.426,7.426,0,0,0,.75,8.167V24.5a7.426,7.426,0,0,0,7.417,7.417Z" transform="translate(7.666 7.666)" fill="currentColor"/>
-    <path id="Ellipse_1" data-name="Ellipse 1" d="M6-.75A6.75,6.75,0,1,1-.75,6,6.758,6.758,0,0,1,6-.75Zm0,12A5.25,5.25,0,1,0,.75,6,5.256,5.256,0,0,0,6,11.25Z" transform="translate(18 18)" fill="currentColor"/>
-    <path id="Linie_1" data-name="Linie 1" d="M0,1A1,1,0,0,1-1,0,1,1,0,0,1,0-1,1,1,0,0,1,1,0V0A1,1,0,0,1,0,1Z" transform="translate(33 15)" fill="currentColor"/>
-  </g>
-</svg>
