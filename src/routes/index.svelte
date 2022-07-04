@@ -2,6 +2,10 @@
 	export const prerender = true
 </script>
 
+<script>
+	import '../app.scss'
+</script>
+
 <svelte:head>
 	<title>Ergomundus - Ergotherapie in Oberndorf bei Salzburg</title>
 	<meta name="description" content="Ergotherapie in Oberndorf bei Salzburg" />
