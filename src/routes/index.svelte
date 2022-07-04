@@ -72,7 +72,7 @@
 	}
 
 	a {
-		@apply transition-colors duration-200 ease-in-out;
+		@apply underline transition-colors duration-200 ease-in-out;
 
 		&:hover,
 		&:focus-visible {
